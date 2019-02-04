@@ -13,7 +13,7 @@ cmd_prefixs = ("$","!")
 bot = Bot(command_prefix=cmd_prefixs, description='Does everything from bascic functions to full-on porn')
 bot.remove_command('help')
 
-token = 'NDEzNjc2NTQ1NTU5ODg3ODcy.DW2g2Q.opfBZrh3JNmCry3XVDIUCR8A0Y0'
+token = ''
 
 "---------------Events-----------------"
 @bot.event
